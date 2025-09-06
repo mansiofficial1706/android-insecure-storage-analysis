@@ -21,9 +21,8 @@ This is my MSc Cybersecurity dissertation project investigating insecure data st
 - `List of 10 Apps Analysis Performed.pdf` → App names, categories, basic details
 
 ## 📸 Screenshots
-![MobSF Sample Output](Lab setup Images/mobsf-login.jpg)
-![GenyMotion Emulator](Lab setup Images/genymotion.jpg)
-
+![GenyMotion Emulator](Lab-setup-Images/genymotion.jpg)
+![MobSF Sample Output](Lab-setup-Images/mobsf-login.jpg)
 
 ## 🛡️ License
 MIT
