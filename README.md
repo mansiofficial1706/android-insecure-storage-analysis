@@ -22,7 +22,7 @@ This is my MSc Cybersecurity dissertation project investigating insecure data st
 
 ## 📸 Screenshots
 ![GenyMotion Emulator](Lab-setup-Images/genymotion.jpg)
-![MobSF Sample Output](Lab-setup-Images/mobsf1.jpg)
+![MobSF Sample Output](Lab-setup-Images/mobsf.jpg)
 
 ## 🛡️ License
 MIT
